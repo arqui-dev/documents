@@ -1,6 +1,6 @@
 # Architecture Document
 
-> As informações contidas nessa página são direcionadas apenas para o público **AmbevTech**, consulte um **arquiteto de soluções da torre** antes de compartilhar com fornecedores externos ou terceiros.
+>
 {.is-warning}
 
 ## Service Name
